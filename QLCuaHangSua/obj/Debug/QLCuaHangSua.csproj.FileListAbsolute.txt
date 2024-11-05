@@ -1,0 +1,309 @@
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSua\bin\Debug\QLCuaHangSua.exe.config
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSua\bin\Debug\QLCuaHangSua.exe
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSua\bin\Debug\QLCuaHangSua.pdb
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmDangNhap.resources
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmMain.resources
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.Properties.Resources.resources
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.GenerateResource.Cache
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.exe
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.pdb
+F:\QLCuaHangSua\QLCuaHangSua\bin\Debug\QLCuaHangSua.exe.config
+F:\QLCuaHangSua\QLCuaHangSua\bin\Debug\QLCuaHangSua.exe
+F:\QLCuaHangSua\QLCuaHangSua\bin\Debug\QLCuaHangSua.pdb
+F:\QLCuaHangSua\QLCuaHangSua\bin\Debug\QLCuaHangSuaBUS.dll
+F:\QLCuaHangSua\QLCuaHangSua\bin\Debug\QLCuaHangSuaDTO.dll
+F:\QLCuaHangSua\QLCuaHangSua\bin\Debug\QLCuaHangSuaBUS.pdb
+F:\QLCuaHangSua\QLCuaHangSua\bin\Debug\QLCuaHangSuaDTO.pdb
+F:\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.AssemblyReference.cache
+F:\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.SuggestedBindingRedirects.cache
+F:\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmBanHang.resources
+F:\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmDangNhap.resources
+F:\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmMain.resources
+F:\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmSua.resources
+F:\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.Properties.Resources.resources
+F:\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.GenerateResource.cache
+F:\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.CoreCompileInputs.cache
+F:\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.CopyComplete
+F:\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.exe
+F:\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.pdb
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSua\bin\Debug\QLCuaHangSua.exe.config
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSua\bin\Debug\QLCuaHangSua.exe
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSua\bin\Debug\QLCuaHangSua.pdb
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSua\bin\Debug\QLCuaHangSuaBUS.dll
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSua\bin\Debug\QLCuaHangSuaDTO.dll
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSua\bin\Debug\QLCuaHangSuaDAO.dll
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSua\bin\Debug\QLCuaHangSuaBUS.pdb
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSua\bin\Debug\QLCuaHangSuaDTO.pdb
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSua\bin\Debug\QLCuaHangSuaDAO.pdb
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.AssemblyReference.cache
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmBanHang.resources
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmDangNhap.resources
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmMain.resources
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmSua.resources
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.Properties.Resources.resources
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.GenerateResource.cache
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.CoreCompileInputs.cache
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.CopyComplete
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.exe
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.pdb
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSua\bin\Debug\QLCuaHangSuaBUS.dll
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSua\bin\Debug\QLCuaHangSuaDTO.dll
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSua\bin\Debug\QLCuaHangSuaDAO.dll
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSua\bin\Debug\QLCuaHangSuaBUS.pdb
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSua\bin\Debug\QLCuaHangSuaDTO.pdb
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSua\bin\Debug\QLCuaHangSuaDAO.pdb
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.AssemblyReference.cache
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmBanHang.resources
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmSua.resources
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.CoreCompileInputs.cache
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.CopyComplete
+D:\Ổ D\1\QLCuaHangSua\bin\Debug\QLCuaHangSua.exe.config
+D:\Ổ D\1\QLCuaHangSua\bin\Debug\QLCuaHangSua.exe
+D:\Ổ D\1\QLCuaHangSua\bin\Debug\QLCuaHangSua.pdb
+D:\Ổ D\1\QLCuaHangSua\bin\Debug\QLCuaHangSuaBUS.dll
+D:\Ổ D\1\QLCuaHangSua\bin\Debug\QLCuaHangSuaDTO.dll
+D:\Ổ D\1\QLCuaHangSua\bin\Debug\QLCuaHangSuaDAO.dll
+D:\Ổ D\1\QLCuaHangSua\bin\Debug\QLCuaHangSuaBUS.pdb
+D:\Ổ D\1\QLCuaHangSua\bin\Debug\QLCuaHangSuaDTO.pdb
+D:\Ổ D\1\QLCuaHangSua\bin\Debug\QLCuaHangSuaDAO.pdb
+D:\Ổ D\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.csprojAssemblyReference.cache
+D:\Ổ D\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmBanHang.resources
+D:\Ổ D\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmDangNhap.resources
+D:\Ổ D\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmMain.resources
+D:\Ổ D\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmSua.resources
+D:\Ổ D\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.Properties.Resources.resources
+D:\Ổ D\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.GenerateResource.cache
+D:\Ổ D\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.CoreCompileInputs.cache
+D:\Ổ D\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.CopyComplete
+D:\Ổ D\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.exe
+D:\Ổ D\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.pdb
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSua\bin\Debug\QLCuaHangSua.exe.config
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSua\bin\Debug\QLCuaHangSua.exe
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSua\bin\Debug\QLCuaHangSua.pdb
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSua\bin\Debug\QLCuaHangSuaBUS.dll
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSua\bin\Debug\QLCuaHangSuaDTO.dll
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSua\bin\Debug\QLCuaHangSuaDAO.dll
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSua\bin\Debug\QLCuaHangSuaBUS.pdb
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSua\bin\Debug\QLCuaHangSuaDTO.pdb
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSua\bin\Debug\QLCuaHangSuaDAO.pdb
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSua\bin\Debug\QLCuaHangSuaDAO.dll.config
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.AssemblyReference.cache
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.SuggestedBindingRedirects.cache
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmBanHang.resources
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmDangNhap.resources
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmMain.resources
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmSua.resources
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.Properties.Resources.resources
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.GenerateResource.cache
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.CoreCompileInputs.cache
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.CopyComplete
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.exe
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.pdb
+C:\Win\Đồ án C#\1\QLCuaHangSua\bin\Debug\QLCuaHangSua.exe.config
+C:\Win\Đồ án C#\1\QLCuaHangSua\bin\Debug\QLCuaHangSua.exe
+C:\Win\Đồ án C#\1\QLCuaHangSua\bin\Debug\QLCuaHangSua.pdb
+C:\Win\Đồ án C#\1\QLCuaHangSua\bin\Debug\QLCuaHangSuaBUS.dll
+C:\Win\Đồ án C#\1\QLCuaHangSua\bin\Debug\QLCuaHangSuaDTO.dll
+C:\Win\Đồ án C#\1\QLCuaHangSua\bin\Debug\QLCuaHangSuaDAO.dll
+C:\Win\Đồ án C#\1\QLCuaHangSua\bin\Debug\QLCuaHangSuaBUS.pdb
+C:\Win\Đồ án C#\1\QLCuaHangSua\bin\Debug\QLCuaHangSuaDTO.pdb
+C:\Win\Đồ án C#\1\QLCuaHangSua\bin\Debug\QLCuaHangSuaDAO.pdb
+C:\Win\Đồ án C#\1\QLCuaHangSua\bin\Debug\QLCuaHangSuaDAO.dll.config
+C:\Win\Đồ án C#\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.AssemblyReference.cache
+C:\Win\Đồ án C#\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.SuggestedBindingRedirects.cache
+C:\Win\Đồ án C#\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmBanHang.resources
+C:\Win\Đồ án C#\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmDangNhap.resources
+C:\Win\Đồ án C#\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmMain.resources
+C:\Win\Đồ án C#\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmSua.resources
+C:\Win\Đồ án C#\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.Properties.Resources.resources
+C:\Win\Đồ án C#\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.GenerateResource.cache
+C:\Win\Đồ án C#\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.CoreCompileInputs.cache
+C:\Win\Đồ án C#\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.CopyComplete
+C:\Win\Đồ án C#\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.exe
+C:\Win\Đồ án C#\1\QLCuaHangSua\obj\Debug\QLCuaHangSua.pdb
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSua.exe.config
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSua.exe
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSua.pdb
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSuaBUS.dll
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSuaDTO.dll
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSuaDAO.dll
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSuaBUS.pdb
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSuaDTO.pdb
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSuaDAO.pdb
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSuaDAO.dll.config
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.AssemblyReference.cache
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmBanHang.resources
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmDangNhap.resources
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmMain.resources
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmSua.resources
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.Properties.Resources.resources
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.GenerateResource.cache
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.CoreCompileInputs.cache
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHan.7D998AE4.Up2Date
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.exe
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.pdb
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSua.exe.config
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSua.exe
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSua.pdb
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSuaBUS.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSuaDTO.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSuaDAO.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSuaBUS.pdb
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSuaDTO.pdb
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSuaDAO.pdb
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSuaDAO.dll.config
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmBanHang.resources
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmDangNhap.resources
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmMain.resources
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmSua.resources
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.CopyComplete
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.exe
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.pdb
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmBaoCao.resources
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\EnvDTE.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\stdole.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSua\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSua.exe.config
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSua.exe
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSua.pdb
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSuaBUS.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSuaDTO.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSuaDAO.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\EnvDTE.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\stdole.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSuaBUS.pdb
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSuaDTO.pdb
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSuaDAO.pdb
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\QLCuaHangSuaDAO.dll.config
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLCHSUA\QLCuaHangSua\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.AssemblyReference.cache
+D:\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmBanHang.resources
+D:\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmBaoCao.resources
+D:\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmDangNhap.resources
+D:\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmMain.resources
+D:\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.frmSua.resources
+D:\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.Properties.Resources.resources
+D:\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.GenerateResource.cache
+D:\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.csproj.CoreCompileInputs.cache
+D:\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHan.7D998AE4.Up2Date
+D:\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.exe
+D:\QLCHSUA\QLCuaHangSua\obj\Debug\QLCuaHangSua.pdb

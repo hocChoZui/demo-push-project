@@ -1,0 +1,86 @@
+F:\QLCuaHangSua\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.dll
+F:\QLCuaHangSua\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.pdb
+F:\QLCuaHangSua\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDTO.dll
+F:\QLCuaHangSua\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDTO.pdb
+F:\QLCuaHangSua\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csproj.AssemblyReference.cache
+F:\QLCuaHangSua\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csproj.CoreCompileInputs.cache
+F:\QLCuaHangSua\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csproj.CopyComplete
+F:\QLCuaHangSua\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.dll
+F:\QLCuaHangSua\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.pdb
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.dll
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.pdb
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDTO.dll
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDTO.pdb
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csproj.AssemblyReference.cache
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csproj.CoreCompileInputs.cache
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csproj.CopyComplete
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.dll
+D:\LVHNguyen\LTWin\QLCuaHangSua\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.pdb
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.dll
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.pdb
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDTO.dll
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDTO.pdb
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csproj.AssemblyReference.cache
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csproj.CoreCompileInputs.cache
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csproj.CopyComplete
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.dll
+D:\LVHNguyen\QLCuaHangSua\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.pdb
+D:\Ổ D\1\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.dll
+D:\Ổ D\1\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.pdb
+D:\Ổ D\1\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDTO.dll
+D:\Ổ D\1\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDTO.pdb
+D:\Ổ D\1\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csprojAssemblyReference.cache
+D:\Ổ D\1\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csproj.CoreCompileInputs.cache
+D:\Ổ D\1\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csproj.CopyComplete
+D:\Ổ D\1\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.dll
+D:\Ổ D\1\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.pdb
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.dll.config
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.dll
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.pdb
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDTO.dll
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDTO.pdb
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csproj.AssemblyReference.cache
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csproj.CoreCompileInputs.cache
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csproj.CopyComplete
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.dll
+D:\CacMonHoc\C#\Đồ án C#\1\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.pdb
+C:\Win\Đồ án C#\1\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.dll.config
+C:\Win\Đồ án C#\1\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.dll
+C:\Win\Đồ án C#\1\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.pdb
+C:\Win\Đồ án C#\1\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDTO.dll
+C:\Win\Đồ án C#\1\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDTO.pdb
+C:\Win\Đồ án C#\1\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csproj.AssemblyReference.cache
+C:\Win\Đồ án C#\1\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csproj.CoreCompileInputs.cache
+C:\Win\Đồ án C#\1\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csproj.CopyComplete
+C:\Win\Đồ án C#\1\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.dll
+C:\Win\Đồ án C#\1\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.pdb
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.dll.config
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.dll
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.pdb
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDTO.dll
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDTO.pdb
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csproj.AssemblyReference.cache
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csproj.CoreCompileInputs.cache
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSuaDAO\obj\Debug\QLCuaHan.6479463A.Up2Date
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.dll
+E:\WinDows\Bài Tập tuần\QLCHSUA\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.pdb
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.dll.config
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.pdb
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDTO.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDTO.pdb
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csproj.CopyComplete
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.dll
+C:\Users\ACER\OneDrive\Desktop\QLCHSUA\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.pdb
+D:\QLCHSUA\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.dll.config
+D:\QLCHSUA\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.dll
+D:\QLCHSUA\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDAO.pdb
+D:\QLCHSUA\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDTO.dll
+D:\QLCHSUA\QLCuaHangSuaDAO\bin\Debug\QLCuaHangSuaDTO.pdb
+D:\QLCHSUA\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csproj.AssemblyReference.cache
+D:\QLCHSUA\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.csproj.CoreCompileInputs.cache
+D:\QLCHSUA\QLCuaHangSuaDAO\obj\Debug\QLCuaHan.6479463A.Up2Date
+D:\QLCHSUA\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.dll
+D:\QLCHSUA\QLCuaHangSuaDAO\obj\Debug\QLCuaHangSuaDAO.pdb
